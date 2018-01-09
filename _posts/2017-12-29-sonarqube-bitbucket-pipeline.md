@@ -1,4 +1,9 @@
-categories: [misc]
+---
+layout: post
+title: How To Use Tags And Categories On GitHub Pages Without Plugins
+category: misc
+tags: [misc]
+---
 
 This is a sample build configuration for PHP. (mod by Theerayooth Kosin)
 Check our guides at https://confluence.atlassian.com/x/VYk8Lw for more examples.
