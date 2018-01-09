@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<ul id="post-list">
+    {% for post in site.categories._misc %}
+        {% include default.html %}
+    {% endfor %}
+</ul>
+{% include pagination.html %}

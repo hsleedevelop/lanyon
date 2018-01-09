@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 # About/contact
 author:
   name:              HSLee
-  url:               https://twitter.com/evercry
+  url:               https://twitter.com/hsleedevelop
   email:             fadeguy@gmail.com
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
@@ -33,6 +33,13 @@ paginate:            5
 
 # Custom vars
 version:             1.0.0
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["footnotes", "smart", "tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
 # Use the following plug-ins
 gems:
