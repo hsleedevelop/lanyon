@@ -17,12 +17,12 @@ timezone: Asia/Seoul
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              HSLee
+  url:               https://twitter.com/evercry
+  email:             fadeguy@gmail.com
 
 # url:                 http://lanyon.getpoole.com
-# baseurl:             ''
+baseurl:             ''
 paginate:            5
 
 # Custom vars
