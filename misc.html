@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Misc
+category: misc
 ---
 
 <div class="posts">
-  {% for post in site.categories[misc] %}
+  {% for post in site.categories[page.categry] %}
     <!-- {% for post in posts %} -->
       {% if post.title != nil %}
         <div class="post">
