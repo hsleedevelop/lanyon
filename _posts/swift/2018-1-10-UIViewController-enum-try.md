@@ -5,9 +5,9 @@ category: swift
 tags: [swift]
 ---
 
- 
-<!-- {% highlight js %} -->
-```
+
+{% highlight swift %}
+
 enum RDUXCatalogs: BSTUXProtocol {
     case screens(UIViewController)
     case device(UIViewController)
@@ -29,5 +29,5 @@ enum RDUXCatalogs: BSTUXProtocol {
           }
     }
 }
-```
-<!-- {% endhighlight %} -->
+
+{% endhighlight %}
