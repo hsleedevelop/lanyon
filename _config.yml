@@ -14,7 +14,7 @@ description:         'Main: iOS Developer'
 timezone: Asia/Seoul
 
 # About/contact
-author: 
+author:
   name:              HSLee
   url:               https://twitter.com/hsleedevelop
   email:             fadeguy@gmail.com
@@ -35,8 +35,7 @@ paginate:            5
 version:             1.0.0
 
 # Build settings
-markdown: redcarpet
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
 
 redcarpet:
   extensions: ["footnotes", "smart", "tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
