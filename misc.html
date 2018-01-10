@@ -4,18 +4,29 @@ title: Misc
 category: misc
 ---
 
-<div class="posts">
+<!-- <div class="posts"> -->
   {% for post in site.categories[page.categry] %}
     <!-- {% for post in posts %} -->
       {% if post.title != nil %}
-        <div class="post">
-          <h4 class="post-title">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h1>
-        </div>
+        {{ post.title }}
       {% endif %}
     <!-- {% endfor %} -->
   {% endfor %}
-</div>
+<!-- </div> -->
+
+
+<!-- <div class="posts">
+  {% for post in site.categories[page.categry] %}
+    <!-- {% for post in posts %} -->
+      <!-- {% if post.title != nil %} -->
+        <!-- <div class="post"> -->
+          <!-- <h4 class="post-title"> -->
+            <!-- <a href="{{ site.baseurl }}{{ post.url }}"> -->
+              <!-- {{ post.title }} -->
+            <!-- </a> -->
+          <!-- </h1> -->
+        <!-- </div> -->
+      <!-- {% endif %} -->
+    <!-- {% endfor %} -->
+  <!-- {% endfor %} -->
+<!-- </div> --> -->
