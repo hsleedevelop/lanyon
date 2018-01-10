@@ -6,11 +6,7 @@ category: misc
 
 <!-- <div class="posts"> -->
   {% for post in site.categories[page.category] %}
-    <!-- {% for post in posts %} -->
-      {% if post.title != nil %}
-        {{ post.title }}
-      {% endif %}
-    <!-- {% endfor %} -->
+    {{ post.title }}
   {% endfor %}
 <!-- </div> -->
 
