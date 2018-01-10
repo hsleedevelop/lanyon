@@ -1,13 +1,14 @@
 ---
 layout: post
-title: iOS posts
+title: UIViewController enum samples
 category: swift
 tags: [swift]
 ---
 
 # swift
 
-```
+{% highlight swift %}
+
 enum RDUXCatalogs: BSTUXProtocol {
     case screens(UIViewController)
     case device(UIViewController)
@@ -29,4 +30,5 @@ enum RDUXCatalogs: BSTUXProtocol {
           }
     }
 }
-```
+
+{% endhighlight %}
