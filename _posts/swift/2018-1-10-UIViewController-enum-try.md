@@ -5,7 +5,7 @@ category: swift
 tags: [swift]
 ---
 
-
+ 
 <!-- {% highlight js %} -->
 ```
 enum RDUXCatalogs: BSTUXProtocol {
