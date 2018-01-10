@@ -5,7 +5,6 @@ category: swift
 tags: [swift]
 ---
 
-# swift
 
 <!-- {% highlight js %} -->
 ```swift
