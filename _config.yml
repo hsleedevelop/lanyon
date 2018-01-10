@@ -4,8 +4,8 @@ permalink: /:title/
 
 # Setup
 title:               HSLee Develop
-tagline:             'iOS, Swift, and devops'
-description:         'Main: iOS Developer'
+tagline:             'iOS, Swift, and Devops'
+description:         'iOS, Swift, and Devops'
 
 #
 # Flags below are optional
@@ -36,9 +36,6 @@ version:             1.0.0
 
 # Build settings
 markdown: kramdown
-
-redcarpet:
-  extensions: ["footnotes", "smart", "tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
 # Use the following plug-ins
 gems:

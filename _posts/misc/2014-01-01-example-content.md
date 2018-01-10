@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Example content
+category: misc
+tags: [misc]
 ---
+
 
 
 <div class="message">
