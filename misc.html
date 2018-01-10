@@ -4,23 +4,17 @@ title: Misc
 ---
 
 <div class="posts">
-  {% for category in site.categories["misc"] %}
-    <li><a name="{{ category | first }}">{{ category | first }}</a>
-      <ul>
-        {% for posts in category %}
-          {% for post in posts %}
-            {% if post.title != nil %}
-              <div class="post">
-                <h4 class="post-title">
-                  <a href="{{ site.baseurl }}{{ post.url }}">
-                    {{ post.title }}
-                  </a>
-                </h1>
-              </div>
-            {% endif %}
-          {% endfor %}
-        {% endfor %}
-      </ul>
-    </li>
+  {% for posts in site.categories[misc] %}
+    {% for post in posts %}
+      {% if post.title != nil %}
+        <div class="post">
+          <h4 class="post-title">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </h1>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </div>
