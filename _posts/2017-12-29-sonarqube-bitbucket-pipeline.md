@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Use Tags And Categories On GitHub Pages Without Plugins
+title: Sonar scanner for Bitbucket pipeline
 category: misc
 tags: [misc]
 ---
@@ -19,7 +19,7 @@ Choose Atlassion image
 image: atlassian/default-image:latest
 
 ### Go with pipeline
-'''
+```
 pipelines:
 
   # any brance, https://confluence.atlassian.com/bitbucket/branch-workflows-in-bitbucket-pipelines-856697482.html
@@ -37,4 +37,4 @@ pipelines:
           - chmod +x sonar-scanner-2.8/bin/sonar-scanner
           - sonar-scanner-2.8/bin/sonar-scanner -Dsonar.exclusions=sonar-scanner-2.8.zip,sonar-scanner-2.8/**/*,vendor/**/* -Dsonar.login=<admin-user> -Dsonar.password=<admin-password> -Dsonar.projectKey=<project-key> -Dsonar.projectName=<project-name> -Dsonar.projectVersion=1.0 -Dsonar.sources=.  -Dsonar.host.url=http://<your-sonarqube-host>:9000 -Dsonar.sourceEncoding=UTF-8 -Dsonar.analysis.mode=publish
           - echo "http://<your-sonarqube-host>:9000/dashboard/index/<project-name>"
-'''
+```
