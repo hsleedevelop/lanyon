@@ -7,7 +7,7 @@ tags: [swift]
 
 
 <!-- {% highlight js %} -->
-```swift
+```
 enum RDUXCatalogs: BSTUXProtocol {
     case screens(UIViewController)
     case device(UIViewController)
