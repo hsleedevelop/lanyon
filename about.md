@@ -10,6 +10,7 @@ I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat name
 
 
 ### Hobbies
+I have PADI license, I love to dive in the deep sea.
 
 
 ### Music
