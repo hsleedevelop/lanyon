@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About HSLee
+title: About
 ---
 
 ### Life
 
 <p class="message">
+  Hey~, I'm HS Lee,
   I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat named "Choco".
 </p>
 
