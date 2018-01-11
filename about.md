@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+<div>
+<img src="{{ site.baseurl }}/public/moldive.jpg">
+</div>
+
 ### Life
 
 <p class="message">
