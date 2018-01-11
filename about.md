@@ -20,10 +20,10 @@ title: About
 
 ### Develop
 <p class="message">
-  - iOS for 8 years : swift, objc
-  - window for 3 years : vc++, mfc, ocx, com+, std
-  - web for 4 years : .net, java, javascript
-  - PM, PL
+  - iOS for 8 years : swift, objc  
+  - window for 3 years : vc++, mfc, ocx, com+, std  
+  - web for 4 years : .net, java, javascript  
+  - PM, PL  
 </p>
 
 ### Hobbies
