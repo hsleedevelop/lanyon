@@ -4,13 +4,18 @@ title: About HSLee
 ---
 
 ### Life
-I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat named "Choco".
+
+<p class="message">
+  I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat named "Choco".
+</p>
+
 
 ### Develop
 
 
 ### Hobbies
-I have PADI license, I love to dive in to the deep sea.
-
+<p class="message">
+  I have PADI license, I love to dive in to the deep sea.
+</p>
 
 ### Music
