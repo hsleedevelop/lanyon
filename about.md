@@ -6,7 +6,8 @@ title: About
 <br />
 
 <div>
-<img src="{{ site.baseurl }}/public/moldive.jpg">
+<img src="{{ site.baseurl }}/public/moldive.jpg" />
+<i> in Maldives </i>
 </div>
 
 ### Life
