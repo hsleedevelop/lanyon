@@ -13,16 +13,16 @@ title: About
 ### Life
 
 <p class="message">
-  Hey~, I'm HS Lee,
+  Hey~, I'm HS Lee, <br />
   I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat named "Choco".
 </p>
 
 
 ### Develop
 <p class="message">
-  - iOS for 8 years : swift, objc  
-  - window for 3 years : vc++, mfc, ocx, com+, std  
-  - web for 4 years : .net, java, javascript  
+  - iOS for 8 years : swift, objc <br />
+  - window for 3 years : vc++, mfc, ocx, com+, std <br />
+  - web for 4 years : .net, java, javascript <br />
   - PM, PL  
 </p>
 
@@ -33,5 +33,6 @@ title: About
 
 ### Music
 <p class="message">
-  I'm playing drum in "Bullbbadda California" rock band, my band cover Red Hot Chili Peppers's songs.
+  I'm playing drum in "Bullbbadda California" rock band, <br />
+  my band cover Red Hot Chili Peppers's songs.
 </p>
