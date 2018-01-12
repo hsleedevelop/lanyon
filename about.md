@@ -3,28 +3,35 @@ layout: page
 title: About
 ---
 
+<br />
+
+<div>
+<img src="{{ site.baseurl }}/public/moldive.jpg" />
+<i> in Maldives </i>
+</div>
+
+### Life
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey~, I'm HS Lee,
+  I live in Seoul with my beautiful wife, a cute daughter and a chic cat, cat named "Choco".
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@hsleedevelop](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+### Develop
+<p class="message">
+  - iOS for 8 years : swift, objc  
+  - window for 3 years : vc++, mfc, ocx, com+, std  
+  - web for 4 years : .net, java, javascript  
+  - PM, PL  
+</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Hobbies
+<p class="message">
+  I have PADI license, I love to dive in to the deep sea.
+</p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Music
+<p class="message">
+  I'm playing drum in "Bullbbadda California" rock band, my band cover Red Hot Chili Peppers's songs.
+</p>
