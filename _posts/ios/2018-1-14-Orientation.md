@@ -5,6 +5,9 @@ category: ios
 tags: [ios, orientation]
 ---
 
+- Set the orientation option on project settings
+![project settings]({{ "/assets/posts/2018-01-14.png" | absolute_url }})
+
 - In First, Set the orientation at AppDelegate
 {% highlight swift %}
 var enableAllOrientation = false
