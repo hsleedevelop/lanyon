@@ -4,7 +4,7 @@ title: Change orientation a specific viewController
 category: ios
 tags: [ios, orientation]
 ---
-
+ 
 1. In First, Set the orientation at AppDelegate
 {% highlight swift %}
 var enableAllOrientation = false
