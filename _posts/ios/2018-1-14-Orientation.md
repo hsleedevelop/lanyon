@@ -4,8 +4,8 @@ title: Change orientation a specific viewController
 category: ios
 tags: [ios, orientation]
 ---
- 
-1. In First, Set the orientation at AppDelegate
+
+- In First, Set the orientation at AppDelegate
 {% highlight swift %}
 var enableAllOrientation = false
   func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
@@ -16,7 +16,7 @@ var enableAllOrientation = false
   }
 {% endhighlight %}
 
-2. Enable rotating orientation onto a specific viewController
+- Enable rotating orientation onto a specific viewController
 {% highlight swift %}
 override func viewWillAppear(_ animated: Bool) {
       super.viewWillAppear(animated)
@@ -34,9 +34,10 @@ override func viewWillDisappear(_ animated: Bool) {
 }
 {% endhighlight %}
 
-<!-- ``` Swift -->
-3. when back to the non-orientation viewController
-{% highlight swift %}
+
+- when back to the non-orientation viewController
+<!-- {% highlight swift %} -->
+``` Swift
   override func viewDidAppear(_ animated: Bool) {
       super.viewDidAppear(animated)
 
@@ -47,5 +48,5 @@ override func viewWillDisappear(_ animated: Bool) {
 
       UIViewController.attemptRotationToDeviceOrientation()
   }
-{% endhighlight %}
-<!-- ``` -->
+```
+<!-- {% endhighlight %} -->
