@@ -37,7 +37,7 @@ override func viewWillDisappear(_ animated: Bool) {
 
 - when back to the non-orientation viewController
 
-``` Swift
+{% highlight swift %}
   override func viewDidAppear(_ animated: Bool) {
       super.viewDidAppear(animated)
 
@@ -48,4 +48,4 @@ override func viewWillDisappear(_ animated: Bool) {
 
       UIViewController.attemptRotationToDeviceOrientation()
   }
-```
+{% endhighlight %}
