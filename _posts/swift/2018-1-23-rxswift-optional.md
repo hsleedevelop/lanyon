@@ -5,6 +5,9 @@ category: swift
 tags: [swift]
 ---
 
+
+{% highlight swift %}
+
 Observable<[Notice]>.of(self.notifications)
     .replaceNilWith([])
     .bind(to: tableView.rx.items(cellIdentifier: "NotificationTableViewCell", cellType: NotificationTableViewCell.self)) { indexPath, notice, cell in
@@ -18,3 +21,5 @@ subject?.bind(to: tableView.rx.items(cellIdentifier: "NotificationTableViewCell"
     }.disposed(by: disposeBag)
 
 self.subject?.onNext(self.notifications)
+
+{% endhighlight %}
