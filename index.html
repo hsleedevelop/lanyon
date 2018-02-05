@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} - <a href="https://hsleedevelop.github.io{{ post.url | relative_url }}#disqus_thread">comments</a> </span>
+    <span class="post-date">{{ post.date | date_to_string }} - <a href="{{ site.url }}{{ page.url }}#disqus_thread">0 Comments</a> </span>
 
     {{ post.content }}
   </div>
