@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<script id="dsq-count-scr" src="//hsleedevelop.disqus.com/count.js" async></script>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} - <a href="https://hsleedevelop.github.io{{ post.url | relative_url }}#disqus_thread">disqus</a> </span>
+    <span class="post-date">{{ post.date | date_to_string }} - <a href="https://hsleedevelop.github.io{{ post.url | relative_url }}#disqus_thread">comments</a> </span>
 
     {{ post.content }}
   </div>
