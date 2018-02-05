@@ -1,5 +1,11 @@
 {% highlight html %}
 {% raw %}
-{{ content }}
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {{ content }}
+  </body>
+</html>
 {% endraw %}
 {% endhighlight %}
