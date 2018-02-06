@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+comments: true
 ---
 
 <div class="posts">
@@ -13,7 +14,6 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}
-      - <a href="{{ post.url }}#disqus_thread" class="disqus-comment-count" data-disqus-identifier="{{ post.id }}">Comments</a>
       {% if page.comments %}
       - <a href="{{ post.url }}#disqus_thread" class="disqus-comment-count" data-disqus-identifier="{{ post.id }}">Comments</a>
       {% endif %} </span>
