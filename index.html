@@ -15,7 +15,7 @@ comments: true
 
     <span class="post-date">{{ post.date | date_to_string }}
       {% if page.comments %}
-      - <a href="{{ post.url }}#disqus_thread" class="disqus-comment-count" data-disqus-identifier="{{ post.id }}">Comments</a>
+      - <a href="{{ post.url }}#disqus_thread" class="disqus-comment-count" data-disqus-identifier="{{ post.id }}"></a>
       {% endif %} </span>
 
     {{ post.content }}
