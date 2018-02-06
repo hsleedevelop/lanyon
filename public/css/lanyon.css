@@ -388,6 +388,9 @@ a.sidebar-nav-item:focus {
 a.pagination-item:hover {
   background-color: #f5f5f5;
 }
+a.disqus-comment-count {
+  color: #ff0000;
+}
 
 @media (min-width: 30em) {
   .pagination {
