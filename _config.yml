@@ -34,6 +34,10 @@ paginate:            5
 # Custom vars
 version:             1.0.0
 
+
+# Google Analytics
+google_analytics: UA-113882850-1
+
 # Build settings
 markdown: kramdown
 # !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
