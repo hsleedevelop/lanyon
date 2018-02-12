@@ -5,6 +5,7 @@ category: swift
 tags: [swift]
 ---
 
+source: [https://medium.com/swift-programming/using-lazy-to-delay-computation-8aa4ea236d0a](https://medium.com/swift-programming/using-lazy-to-delay-computation-8aa4ea236d0a)
 
 {% highlight swift %}
 
