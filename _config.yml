@@ -19,6 +19,9 @@ author:
   url:               https://twitter.com/hsleedevelop
   email:             fadeguy@gmail.com
 
+# social links
+github_username:  hsleedevelop
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: "https://hsleedevelop.github.io/"
@@ -76,3 +79,7 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
