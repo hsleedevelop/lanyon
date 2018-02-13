@@ -5,6 +5,6 @@ category: misc
 tags: [misc, ai]
 ---
 
-출처: [https://brunch.co.kr/@kakao-it/171](https://brunch.co.kr/@kakao-it/171)
+출처: [카카오 AI리포트 2017 모음집](https://brunch.co.kr/@kakao-it/171)
 
 <embed src="/assets/pdf/ai_online_course.pdf" type="application/pdf" width="100%" height="800em" />
