@@ -6,6 +6,7 @@ tags: [swift]
 ---
 
 {% highlight swift %}
+
 class func requestDeterminingPermission(completion: BSTClosure.emptyAction? = nil) {
 
     let permissionSet = PermissionSet(Permission.defaultSet)
@@ -30,4 +31,5 @@ class func requestDeterminingPermission(completion: BSTClosure.emptyAction? = ni
         completion?()
     }
 }
+
 {% endhighlight %}
