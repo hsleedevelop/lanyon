@@ -2,7 +2,7 @@
 layout: post
 title: Realm debug snippet
 category: ios
-tags: [ios, realmn]
+tags: [ios, realm]
 ---
 
 realm file in simulator
