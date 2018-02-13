@@ -10,6 +10,8 @@ tags: [ios, xcode]
 
 [Sample Codes](https://stackoverflow.com/questions/6910901/how-do-i-print-a-list-of-build-settings-in-xcode-project)
 
+[gist](https://gist.github.com/hsleedevelop/fb05d2adfdd5f49593384c94107cc95c)
+
 ```
 
 Variable                                  Example
