@@ -1,0 +1,13 @@
+---
+layout: post
+title: Functional, lazy protocol
+category: swift
+tags: [swift]
+---
+
+You can only upcast to a parent type:
+
+var closure : (Subclass) -> () = {
+    (first : Superclass) in
+}
+you cannot downcast to a subclass
