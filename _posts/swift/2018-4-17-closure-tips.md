@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional, lazy protocol
+title: closure, cast constraint
 category: swift
 tags: [swift]
 ---
