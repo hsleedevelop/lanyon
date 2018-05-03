@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Realm debug snippet
+description: Realm debug snippet
 category: ios
 tags: [ios, realm]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functional, lazy protocol
+description: Functional, lazy protocol
 category: swift
 tags: [swift]
 ---

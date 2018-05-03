@@ -1,6 +1,7 @@
 ---
 layout: post
 title: XCode build settings, variables
+description: XCode build settings, variables
 category: ios
 tags: [ios, xcode]
 ---

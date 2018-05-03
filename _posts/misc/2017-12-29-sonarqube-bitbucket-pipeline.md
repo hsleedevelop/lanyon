@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sonar scanner for Bitbucket pipeline
+description: Sonar scanner for Bitbucket pipeline
 category: misc
 tags: [misc]
 ---

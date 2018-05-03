@@ -1,6 +1,7 @@
 ---
 layout: post
 title: closure, cast constraint
+description: closure, cast constraint
 category: swift
 tags: [swift]
 ---

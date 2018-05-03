@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI를 학습할 수 있는 무료 온라인 강의 소개
+description: AI를 학습할 수 있는 무료 온라인 강의 소개
 category: misc
 tags: [misc, ai]
 ---

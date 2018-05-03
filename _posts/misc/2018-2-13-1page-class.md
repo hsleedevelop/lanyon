@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 1page class summary - 5
+description: 1page class summary - 5
 category: misc
 tags: [misc, planning]
 ---

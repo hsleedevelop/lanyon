@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Lanyon
+description: Introducing Lanyon
 category: misc
 tags: [misc]
 ---

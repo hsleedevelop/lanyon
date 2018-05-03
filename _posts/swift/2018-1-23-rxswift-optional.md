@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RxSwift Code Snippet
+description: RxSwift Code Snippet
 category: swift
 tags: [swift]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
+description: What's Jekyll?
 category: misc
 tags: [misc]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Debugging Tips and Tricks - WWDC16
+description: Debugging Tips and Tricks - WWDC16
 category: ios
 tags: [ios, debug]
 ---

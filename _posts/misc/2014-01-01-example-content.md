@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+description: Example content
 category: misc
 tags: [misc]
 ---
