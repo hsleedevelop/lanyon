@@ -22,6 +22,11 @@ author:
 # social links
 github_username:  hsleedevelop
 
+social:
+  name: hslee
+  links:
+    - https://github.com/hsleedevelop
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: "https://hsleedevelop.github.io/"
