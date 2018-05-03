@@ -4,6 +4,7 @@ title: Async DispatchQueue Usage
 description: Async DispatchQueue Usage
 category: swift
 tags: [swift]
+lang: ko
 ---
 
 {% highlight swift %}
