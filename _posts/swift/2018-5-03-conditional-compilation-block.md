@@ -31,7 +31,7 @@ For information about platform conditions, see Conditional Compilation Block in 
 > NOTE
 The arch(arm) platform condition does not return true for ARM 64 devices. The arch(i386) platform condition returns true when code is compiled for the 32–bit iOS simulator.
 
-You can combine compilation conditions using the && and \|| operators, negate them with the ! operator, and add branches with #elseif and #else compilation directives. You can also nest conditional compilation blocks within other conditional compilation blocks.
+You can combine compilation conditions using the && and \|\| operators, negate them with the ! operator, and add branches with #elseif and #else compilation directives. You can also nest conditional compilation blocks within other conditional compilation blocks.
 
 ```
 #if arch(arm) || arch(arm64)
