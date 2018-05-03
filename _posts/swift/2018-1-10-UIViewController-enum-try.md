@@ -4,7 +4,6 @@ title: UIViewController enum samples
 description: UIViewController enum samples
 category: swift
 tags: [swift]
-lang: en
 ---
 
 {% highlight swift %}
