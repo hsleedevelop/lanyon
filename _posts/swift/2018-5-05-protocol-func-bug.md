@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conditional Compilation Blocks
-description: Conditional Compilation Blocks
+title: Protocol Extension: function's implementation cannot be overridden by a subclass
+description: Protocol Extension: function's implementation cannot be overridden by a subclass
 category: swift
 tags: [swift]
 ---
@@ -19,7 +19,7 @@ A class(B) is implement A, but doesn't have implement x.
 A subclass(C) is inheritance B, and have implement x(x').
 A instance of C typed A, and call x.
 
-
+```
 // Defined protocol.
 protocol A {
     func a() -> Int
@@ -62,3 +62,4 @@ D().a() // 1
 (D() as A).a() // 1
 E().a() // 2
 (E() as A).a() // 2
+```
