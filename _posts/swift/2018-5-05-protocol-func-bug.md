@@ -9,15 +9,15 @@ tags: [swift]
 [source](https://bugs.swift.org/browse/SR-103)
 
 
-Protocol Extension: function's implementation cannot be overridden by a subclass
+Protocol Extension: function's implementation cannot be overridden by a subclass  
 
-A function(x') is not called that we thought If there is following conditions.
+A function(x') is not called that we thought If there is following conditions.  
 
-A protocol(A) is defined a function(x).
-A has implement of x in the protocol extension.
-A class(B) is implement A, but doesn't have implement x.
-A subclass(C) is inheritance B, and have implement x(x').
-A instance of C typed A, and call x.
+A protocol(A) is defined a function(x).  
+A has implement of x in the protocol extension.  
+A class(B) is implement A, but doesn't have implement x.  
+A subclass(C) is inheritance B, and have implement x(x').  
+A instance of C typed A, and call x.  
 
 ```
 // Defined protocol.
