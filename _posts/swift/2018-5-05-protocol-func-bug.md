@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Protocol Extension\: function's implementation cannot be overridden by a subclass
-description: Protocol Extension\: function's implementation cannot be overridden by a subclass
+title: Protocol Extension - function's implementation cannot be overridden by a subclass
+description: Protocol Extension - function's implementation cannot be overridden by a subclass
 category: swift
 tags: [swift]
 ---
