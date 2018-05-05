@@ -7,7 +7,7 @@ tags: [swift]
 ---
 
 [source](https://bugs.swift.org/browse/SR-103)
-
+ 
 
 Protocol Extension: function's implementation cannot be overridden by a subclass
 
