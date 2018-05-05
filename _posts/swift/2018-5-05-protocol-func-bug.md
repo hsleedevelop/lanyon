@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Protocol Extension: function's implementation cannot be overridden by a subclass
-description: Protocol Extension: function's implementation cannot be overridden by a subclass
+title: Conditional Compilation Blocks
+description: Conditional Compilation Blocks
 category: swift
 tags: [swift]
 ---
 
 [source](https://bugs.swift.org/browse/SR-103)
- 
+
 
 Protocol Extension: function's implementation cannot be overridden by a subclass
 
