@@ -92,7 +92,7 @@ plugins:
     - jekyll-sitemap
 #    - jekyll-avatar
     - jemoji
-#    - jekyll-mentions
+    - jekyll-mentions
 #    - jekyll-include-cache
 
 excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed/
