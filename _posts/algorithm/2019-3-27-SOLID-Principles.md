@@ -6,7 +6,7 @@ category: algorithm
 tags: [algorithm, solid]
 ---
 
-** SOLID - Programming Principles
+**SOLID - Programming Principles**
 
 1. SRP
 - 단일 책임 원칙 (Single responsibility principle)

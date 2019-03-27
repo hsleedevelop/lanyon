@@ -8,8 +8,8 @@ lang: ko
 ---
 
 
-*** atomic links
+***atomic links***
 - [Atomic Properties in Swift](http://www.vadimbulavin.com/atomic-properties/)
 
-*** interesting links
+***interesting links***
 - [Benchmarking Swift Locking APIs](http://www.vadimbulavin.com/benchmarking-locking-apis/)
