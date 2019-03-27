@@ -74,9 +74,9 @@ kramdown:
 
 # Use the following plug-ins
 gems:
-  # - jemoji # Emoji please!
-  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  # - jekyll-redirect-from
+    - jekyll-redirect-from
+    - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+    - jemoji # Emoji please!
 
 # Exclude these files from your production _site
 exclude:
