@@ -14,17 +14,16 @@ lang: ko
 5. set ZSH_THEME="agnoster" in ~/.zshrc
 6. change font to d2font by naver >> ligature
 7. syntax_highlighting
-<p>
+
 | git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 | echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
-</p>
 
 8. remove mac-book
 
-<p>
+```
 prompt_context() {
   if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
-    prompt_segment black default "%%(!.%{%%F{yellow}%%}.)$USER"
+    prompt_segment black default "\%(!.\%{\%F{yellow}\%}.)$USER"
   fi
 }
-</p>
+```
